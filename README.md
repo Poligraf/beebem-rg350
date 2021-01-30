@@ -1,4 +1,4 @@
-# beebem RG350
+# beebem retrofw350
 
 Port of beebem, a BBC Micro Model B emulator, for the RG350 handheld running Open Dingux.
 
